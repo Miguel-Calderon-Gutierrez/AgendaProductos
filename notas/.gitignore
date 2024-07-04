@@ -48,4 +48,5 @@ Thumbs.db
 
 
 /environments
-
+environment.ts
+environment.development.ts
